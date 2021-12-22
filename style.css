@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #129799;
+}
+
+.title {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    padding-right: 2rem;
+    color: white;
+}
+
+.menu li {
+    display: flex;
+    list-style: none;
+    padding-right: 2rem;
+    font-size: 20px;
+}
+
+.portfolio:hover {
+    font-weight: bold;
+}
+
+.sobre:hover {
+    font-weight: bold;
+}
+
+.contato:hover {
+    font-weight: bold;
+}
+
+.titulo-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-principal {
+    padding: 20px;
+    font-size: 64px;
+    color: white;
+}
+
+.img-title {
+    height: 200px;
+}
+
+.title2 {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu2 {
+    display: flex;
+    list-style: none;
+    padding-right: 2rem;
+    color: white;
+    font-size: 20px;
+}
+
+.menu2 li {
+    display: flex;
+    list-style: none;
+    padding-right: 2rem;
+}
+
+.arte:hover {
+    font-weight: bold;
+}
+
+.estilo:hover {
+    font-weight: bold;
+}
+
+.ebook:hover {
+    font-weight: bold;
+}
+
+main {
+    background-color: #FFA185;
+}
+
+.title-main {
+    padding: 1rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.paragraph {
+    padding-left: 1rem;
+    width: 90vh;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgs2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img01 {
+    height: 350px;
+    padding: 1rem;
+}
+
+.img02 {
+    height: 350px;
+    padding: 1rem;
+}
+
+.img03 {
+    height: 350px;
+    padding: 1rem;
+}
+
+.img04 {
+    height: 350px;
+    padding: 1rem;
+}
+
+.veja-mais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.veja-mais:hover {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #129799;
+}
+
+.footer-title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    height: 20vh;
+}
+
+.menu3 {
+    display: flex;
+    list-style: none;
+    color: white;
+}
+
+.menu3 li {
+    display: flex;
+    list-style: none;
+    padding-right: 2rem;
+    font-size: 20px;
+}
